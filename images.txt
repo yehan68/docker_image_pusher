@@ -1,2 +1,2 @@
-portainer/portainer-ce
+adoptopenjdk:8-jdk-hotspot
 
