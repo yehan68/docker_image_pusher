@@ -1,2 +1,2 @@
-linuxserver/mariadb
+minio/minio
 
